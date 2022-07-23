@@ -1,0 +1,47 @@
+  873  cd UCB-VIRT-FIN-PT-06-2022-U-B
+  874  git pull
+  875  conda activate dev
+  876  cd Dropbox/fws
+  877  jupyter lab
+  878  conda activate dash
+  879  pip install panel
+  880  conda deactivate
+  881  conda activate dev
+  882  pip install panel
+  883  jupyter labextension install @pyviz/jupyterlab_pyviz
+  884  conda install nodejs
+  885  jupyter labextension install @pyviz/jupyterlab_pyviz
+  886  conda list nodejs
+  887  conda activate dev
+  888  cd Dropbox/fws
+  889  jupyter lab
+  890  conda list voila
+  891  pip list
+  892  jupyter lab
+  893  cd Dropbox/fws
+  894  ls
+  895  cd UCB-VIRT-FIN-PT-06-2022-U-B
+  896  ls
+  897  git pull
+  898  conda activate dev
+  899  pwd
+  900  cd Dropbox/fws
+  901  jupyter lab
+  902  conda activate dev
+  903  pip install vega_datasets
+  904  pip install pydataset
+  905  conda activate dev
+  906  cd Dropbox/fws
+  907  ls
+  908  cd Module_6
+  909  ls
+  910  cd Module_6_Challenge
+  911  cd S
+  912  ls
+  913  cd San_Francisco_Housing_Analysis
+  914  git status
+  915  git status
+  916  git add .
+  917  git status
+  918  git commit -m 'Initial commit'
+  919  git push
